@@ -22,7 +22,7 @@ process.on('SIGINT', () => {
   process.exit();
 
 })
-AD
+
 
 /** Websocket **/
 const WebSocketServer = require('ws').Server;
